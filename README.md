@@ -245,4 +245,5 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors:
 **Aminu Shaibu** <[elameen37](https://github.com/elameen37)>
+  **Igwe felix** <[felixxkingz](https://github.com/felixxkingz)>
 
